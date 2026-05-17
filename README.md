@@ -97,6 +97,47 @@ README.md  -> project showcase documentation
 
 ---
 
+# Project Screenshots
+
+## Dashboard
+
+![Dashboard](images/screenshots/dashboard.png)
+
+---
+
+## Deck Creation Workflow
+
+![Deck Creation](images/screenshots/deck-creation.png)
+
+---
+
+## Deck View
+
+![Deck View](images/screenshots/deck-view.png)
+
+---
+
+## API Testing and Backend Integration
+
+![API Testing](images/screenshots/api-testing.png)
+
+---
+
+## Reusable React Component Architecture
+
+![Flashcard Component](images/screenshots/flashcard-component.png)
+
+---
+
+## Frontend Page Architecture
+
+![Frontend Architecture](images/screenshots/flashcard-page-architecture.png)
+
+---
+
+## Development Notes and Component Planning
+
+![Architecture Notes](images/screenshots/frontend-architecture-notes.png)
 ## Architecture Overview
 
 FlashFlow followed a structured frontend/backend architecture with separate responsibilities for UI rendering, API handling, authentication, and cloud persistence.
