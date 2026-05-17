@@ -2,11 +2,15 @@
 
 ## Overview
 
-This repository is intended strictly as a professional portfolio showcase. The original project repository and collaborative source code remain private.
+This repository is intended strictly as a professional portfolio showcase. The original project 
+repository and collaborative source code remain private.
 
-FlashFlow was a collaborative study platform developed as part of a team-based academic project. This repository is a public showcase intended to document the project architecture, development workflow, technologies used, and my individual contributions.
+FlashFlow was a collaborative study platform developed as part of a team-based academic project. This 
+repository is a public showcase intended to document the project architecture, development workflow, 
+technologies used, and my individual contributions.
 
-The original source repository remains private and is not included here out of respect for team collaboration, project ownership, and repository privacy.
+The original source repository remains private and is not included here out of respect for team 
+collaboration, project ownership, and repository privacy.
 
 This showcase repository contains:
 - Project documentation
@@ -16,7 +20,8 @@ This showcase repository contains:
 - Development process notes
 - Technology stack information
 
-No private source code, credentials, proprietary assets, or teammate-owned work has been uploaded to this repository.
+No private source code, credentials, proprietary assets, or teammate-owned 
+work has been uploaded to this repository.
 
 ---
 
@@ -32,16 +37,26 @@ FlashFlow was designed to help students:
 
 ## My Contributions
 
-Examples of areas I contributed to include:
-- Frontend development
-- UI/UX planning
-- Workflow organization
-- Repository management
-- Documentation
-- Testing and collaboration
-- Technical planning and implementation support
+My primary contributions focused on the FlashFlow flashcard system, including 
+both frontend and backend development.
 
-> Note: Contributions were collaborative and completed as part of a team environment.
+Areas I worked on included:
+- Flashcard feature architecture
+- Frontend UI design and workflow implementation
+- Backend controller and route development
+- Authentication-related functionality
+- API integration and application flow
+- Repository organization and development workflow
+- Testing and debugging support
+- Team collaboration and technical planning
+
+I was heavily involved in designing and implementing the flashcard functionality across the application 
+stack while collaborating within a team-based development environment.
+
+> Note: FlashFlow was a collaborative academic project. This repository documents my individual
+> contributions and project experience without exposing private team source code.
+
+
 
 ---
 
