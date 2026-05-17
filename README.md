@@ -2,6 +2,8 @@
 
 ## Overview
 
+This repository is intended strictly as a professional portfolio showcase. The original project repository and collaborative source code remain private.
+
 FlashFlow was a collaborative study platform developed as part of a team-based academic project. This repository is a public showcase intended to document the project architecture, development workflow, technologies used, and my individual contributions.
 
 The original source repository remains private and is not included here out of respect for team collaboration, project ownership, and repository privacy.
