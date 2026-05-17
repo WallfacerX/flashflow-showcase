@@ -1,81 +1,129 @@
 # FlashFlow
 
-## Overview
+## About This Repository
 
-This repository is intended strictly as a professional portfolio showcase. The original project 
-repository and collaborative source code remain private.
+This repository is a public showcase documenting FlashFlow, a collaborative study platform developed as part of a team-based academic project.
 
-FlashFlow was a collaborative study platform developed as part of a team-based academic project. This 
-repository is a public showcase intended to document the project architecture, development workflow, 
-technologies used, and my individual contributions.
+The original source repository remains private and is not included here out of respect for team collaboration, repository privacy, and responsible software development practices.
 
-The original source repository remains private and is not included here out of respect for team 
-collaboration, project ownership, and repository privacy.
+This showcase repository is intended to document:
+- Project architecture
+- Technologies used
+- Development workflow
+- Feature design
+- My technical contributions
+- Lessons learned throughout development
 
-This showcase repository contains:
-- Project documentation
-- Architecture and workflow diagrams
-- Screenshots and UI previews
-- Personal reflections and lessons learned
-- Development process notes
-- Technology stack information
-
-No private source code, credentials, proprietary assets, or teammate-owned 
-work has been uploaded to this repository.
+No private source code, credentials, proprietary assets, or teammate-owned implementation details are included in this repository.
 
 ---
 
-## Project Goals
+## Project Overview
 
-FlashFlow was designed to help students:
-- Organize study materials
-- Collaborate with teammates
-- Improve study workflows
-- Access shared academic resources in a centralized platform
+FlashFlow is a collaborative study platform designed to help students create, organize, and manage digital flashcards in a team-oriented learning environment.
+
+The platform was built to support:
+- Collaborative studying
+- Flashcard management
+- User authentication
+- Shared study workflows
+- Interactive frontend experiences
+- Cloud-based persistence and storage
+
+---
+
+## Key Features
+
+- Collaborative flashcard creation and organization
+- User authentication and protected routes
+- Interactive frontend study workflows
+- Backend API architecture and routing
+- Persistent cloud storage using Firebase
+- Team-based development workflow
+- Structured frontend and backend separation
 
 ---
 
 ## My Contributions
 
-My primary contributions focused on the FlashFlow flashcard system, including 
-both frontend and backend development.
+My primary contributions focused on the flashcard subsystem across both frontend and backend development.
 
-Areas I worked on included:
+Areas I contributed to included:
 - Flashcard feature architecture
-- Frontend UI design and workflow implementation
-- Backend controller and route development
+- Frontend UI and workflow implementation
+- Backend controller and routing logic
 - Authentication-related functionality
 - API integration and application flow
 - Repository organization and development workflow
 - Testing and debugging support
-- Team collaboration and technical planning
+- Technical planning and collaboration
 
-I was heavily involved in designing and implementing the flashcard functionality across the application 
-stack while collaborating within a team-based development environment.
-
-> Note: FlashFlow was a collaborative academic project. This repository documents my individual
-> contributions and project experience without exposing private team source code.
-
-
+I was heavily involved in designing and implementing the flashcard functionality across the application stack while working within a collaborative team environment.
 
 ---
 
 ## Technology Stack
 
-Example technologies used during development included:
-- HTML
-- CSS
+### Frontend
+- React
+- Next.js
+- HTML5 / CSS3
 - JavaScript
-- Git/GitHub
-- Collaborative planning tools
 
-(Add or adjust technologies to accurately reflect the project.)
+### Backend
+- Node.js
+- Express.js
+
+### Database & Cloud Services
+- Firebase Firestore
+- Firebase Authentication
+- Firebase Hosting
+
+### Development Tools
+- Git & GitHub
+- npm
+- Visual Studio Code
+- Jest
 
 ---
 
 ## Repository Structure
 
 ```text
-images/   -> screenshots and UI images
-docs/     -> diagrams, notes, and supporting documentation
-README.md -> project overview and showcase documentation
+docs/      -> architecture notes and supporting documentation
+images/    -> screenshots and visual assets
+README.md  -> project showcase documentation
+```
+
+---
+
+## Architecture Overview
+
+FlashFlow followed a structured frontend/backend architecture with separate responsibilities for UI rendering, API handling, authentication, and cloud persistence.
+
+Additional architecture documentation can be found in:
+
+```text
+docs/architecture-overview.md
+```
+
+---
+
+## Lessons Learned
+
+This project strengthened skills in:
+- Full-stack application development
+- Frontend/backend integration
+- Authentication workflows
+- Team-based Git collaboration
+- API architecture
+- Cloud-connected applications
+- Technical planning and documentation
+
+---
+
+## Disclaimer
+
+This repository exists strictly as a professional portfolio showcase.
+
+The original collaborative source repository remains private. No private implementation files, secrets, credentials, or teammate-owned source code are included here.
